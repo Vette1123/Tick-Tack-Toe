@@ -10,19 +10,19 @@
 
 > A Network based Tic-Tac-Toe application that consists mainly of two applications `server` and `client`.
 
-> The game has a nice looking user interaface.
+> The game has a nice looking user interface.
 
-> The application done mainliy using `javafx` the server has `mySQL-SERVER` database that stores all the information about the players,games played.
+> The application is built mainly with `javafx`. The server has a `mySQL-SERVER` database that stores all the information about the players and games played.
 
 > The application is designed using the `MVC` pattern.
 
-> The communication between the server and the client in the game is done using `json objects` to make it easy to send and recieve requests and responses.
+> The communication between the server and the client in the game is done using `json objects` to make it easy to send and receive requests and responses.
 
 ## Requirements to run the game:
 
 ### you will find the following files in [Files/schema](https://github.com/Mohamedfadah/Tick-Tack-Toe/tree/main/Documentation/Database).
 
-> mySql database with the player/game tables, you can customize the database info in the dbConnection class inorder to fit your needs.
+> mySql database with the player/game tables, you can customize the database info in the dbConnection class in order to fit your needs.
 
 > java JDK 8.02
 
