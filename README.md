@@ -2,10 +2,6 @@
 
 ![](https://github.com/AbdlrahmanSaberAbdo/AbdlrahmanSaberAbdo/blob/main/thoughtworks-gif_dribbble.gif)
 
-<p align="center">
-<img alt="GitHub all releases" src="https://img.shields.io/github/downloads/Vette1123/Insects-Game/total?color=%23F6E7D8&label=Java&logo=Java&logoColor=%23E45826&style=for-the-badge">
-</p>
-
 ## Description:
 
 > A Network based Tic-Tac-Toe application that consists mainly of two applications `server` and `client`.
@@ -20,7 +16,7 @@
 
 ## Requirements to run the game:
 
-### you will find the following files in [Files/schema](https://github.com/Mohamedfadah/Tick-Tack-Toe/tree/main/Documentation/Database).
+### you will find the following files in [Files/schema](https://github.com/Vette1123/Tick-Tack-Toe/tree/main/Documentation/Database).
 
 > mySql database with the player/game tables, you can customize the database info in the dbConnection class in order to fit your needs.
 
